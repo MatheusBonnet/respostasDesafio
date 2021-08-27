@@ -20,5 +20,5 @@ int main(){
 	}else{
 		cout << "Em nossa empresa nao temos nenhum cargo que se adapte a o salario solicitado";
 	}
-
+        return 0;
 }
