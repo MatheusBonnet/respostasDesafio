@@ -17,5 +17,6 @@ int main(){
 	else {
 		cout << "Tente novamente, voce errou!!\n";
 	}
+	return 0;	
 }
 }
